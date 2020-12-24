@@ -1,0 +1,63 @@
+TESTES
+
+------------------------
+> objetivo do teste foi decifrar o texto
+> chave utilizada: meditation
+> texto utilizado: pbrypbedmfryqbpsonzlnpqn
+> resultado: SA SX SA ME VA SX SO UR AO UC AR RO 
+
+------------------------
+> objetivo do teste foi cifrar o texto
+> chave utilizada: meditation
+> texto utilizado: sassame vassoura ou carro
+> resultado: PB RY PB ED MF RY QB PS ON ZL NP QN 
+
+------------------------
+> objetivo do teste foi cifrar o texto
+> chave utilizada: marcus aurelius
+> texto utilizado: retreat into yourself
+> resultado: AL PU FE QB ON QW TA ML LI GW 
+
+
+------------------------
+> objetivo do teste foi cifrar o texto
+> chave utilizada: antoninus
+> texto utilizado: kindness as an end in itself
+> resultado: HB VN OS LV EM EM OS VN SQ BQ EL EG 
+
+------------------------
+> objetivo do teste foi cifrar o texto
+> chave utilizada: yoda
+> texto utilizado: with you may the force be
+> resultado: UL ZN OD XI BO ZN FG DQ EF OH 
+
+------------------------
+> objetivo do teste foi decifrar o texto
+> chave utilizada: computacao
+> texto utilizado: dmyvqhtpbmad
+> resultado: AL OU TE ST AN DO 
+
+------------------------
+> objetivo do teste foi cifrar o texto
+> chave utilizada: computacao
+> texto utilizado: maquina de estados
+> resultado: SG PV KI BA GV GQ SB AD XA 
+
+------------------------
+> objetivo do teste foi decifrar o texto
+> chave utilizada: computacao
+> texto utilizado: sgpvkibagvgqsbadxa
+> resultado: MA QU IN AD EX ES TA DO SX 
+
+------------------------
+> objetivo do teste foi decifrar o texto
+> chave utilizada: labsec
+> texto utilizado: elah
+> resultado: SE ED 
+
+------------------------
+> objetivo do teste foi cifrar o texto
+> chave utilizada: labsec
+> texto utilizado: seed
+> resultado: EL AH 
+
